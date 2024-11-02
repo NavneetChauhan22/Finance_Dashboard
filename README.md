@@ -2,7 +2,8 @@ Hello Everyone,
 
 I created this Finance Dashboard in Tableau using the Finance Excel Workbook provided by Microsoft on their website.
 
-Problem Statement The goal of this Tableau Dashboard is to analyze the financial performance of a company using the provided Microsoft Sample Data. The aim is to create a visually appealing dashboard that provides an overview of the company's financial metrics, enabling stakeholders to make informed business decisions.
+**Problem Statement **
+The goal of this Tableau Dashboard is to analyze the financial performance of a company using the provided Microsoft Sample Data. The aim is to create a visually appealing dashboard that provides an overview of the company's financial metrics, enabling stakeholders to make informed business decisions.
 
 Sections in the Report The report consists of several sections where you can manage and view the data:
 
