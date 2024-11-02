@@ -34,6 +34,8 @@ git clone https://github.com/NavneetChauhan22/Finance_Dashboard.git
 ```
 
 ## Link to the Dataset
-[Finance_Dashboard](https://github.com/NavneetChauhan22/Finance_Dashboard/blob/main/financial_data.csv)
-https://public.tableau.com/app/profile/navneet.chauhan2330/viz/FinancialPerformance_17290947268860/FinancialPerformanceDashboard
+[Finance_Dashboard_Data](https://github.com/NavneetChauhan22/Finance_Dashboard/blob/main/financial_data.csv)
+
+## Link to the Dashboard
+[Finance_Dashboard] (https://public.tableau.com/app/profile/navneet.chauhan2330/viz/FinancialPerformance_17290947268860/FinancialPerformanceDashboard)
 
