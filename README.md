@@ -37,5 +37,4 @@ git clone https://github.com/NavneetChauhan22/Finance_Dashboard.git
 [Finance_Dashboard_Data](https://github.com/NavneetChauhan22/Finance_Dashboard/blob/main/financial_data.csv)
 
 ## Link to the Dashboard
-(https://public.tableau.com/app/profile/navneet.chauhan2330/viz/FinancialPerformance_17290947268860/FinancialPerformanceDashboard)
-
+https://github.com/NavneetChauhan22/Finance_Dashboard/blob/main/Financial%20Performance.twbx
