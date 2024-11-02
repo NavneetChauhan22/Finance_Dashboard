@@ -7,7 +7,8 @@ The goal of this Tableau Dashboard is to analyze the financial performance of a 
 
 Sections in the Report The report consists of several sections where you can manage and view the data:
 
-Data Slicing: The report data can be filtered by Segments, Country, and Year to display specific information.
+#Data Slicing: 
+The report data can be filtered by Segments, Country, and Year to display specific information.
 
 Summary Cards: The dashboard includes cards that show Total Units Sold, Total Gross Sale, and Total Profit.
 
