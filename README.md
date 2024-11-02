@@ -29,8 +29,8 @@ To create a visually appealing dashboard that provides an overview of the compan
 ## Getting Started
 
 - Clone this repository to your local machine by using the following command :
-```
-
+``` 
+git clone https://github.com/NavneetChauhan22/Finance_Dashboard.git
 ```
 
 ## Link to the Dataset
