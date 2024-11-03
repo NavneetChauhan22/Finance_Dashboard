@@ -2,11 +2,11 @@
 
 Hello Everyone, 
 
-I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
+I made this Finance Dashboard in Tableau with the provided Finance csv data.
 
 ## Problem Statement
 
-The goal of this Power BI Dashboard is to analyze the financial performance of a company using the provided Microsoft Sample Data.
+The goal of this Tableau Dashboard is to analyze the financial performance of a company using the provided Sample Data.
 
 To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
 
@@ -14,17 +14,14 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 **Report has multiple section's from where you can manage the data, like :**
 
-- Report data can be sliced by Segments, Country and Year to show particular data.
+- Report data can be sliced by Country, Products, Segments or Year to show particular data.
 
-- Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
+- Report has cards to analyse Sales/Profit by country, Gross Sales vs Discounts, Discount Bands, Sales and Profit Trend overtime.
 
-- Report has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
+- Report has a bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
 
 - And Lastly, Report has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
 
-- I have also included a **Reset** button at the top to clear all slicer's.
-
-- To use it hold CTRL and then click it to reset all the slicer's.
 
 ## Getting Started
 
