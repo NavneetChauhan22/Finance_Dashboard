@@ -16,17 +16,17 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 - Report data can be filtered by Country, Products, Segments or Year to show particular data.
 
-- Report has filters on right handside to slice the data and see the visualtions.
+- Report has filters on right hand side to slice the data and see the visualization.
 
 - Report has cards to analyse Sales/Profit by country, Gross Sales vs Discounts, Discount Bands, Sales and Profit Trend overtime.
 
-- Report ans a bar chart to visualize sales and profits by country. Profits are visualized by colour gradient and Sales by height of the bars.
+- Report has a bar chart to visualize sales and profits by country. Profits are visualized by colour gradient and Sales by height of the bars.
 
-- Report has a bouble chart to visualize how gross sales performed on discounts
+- Report has a bubble chart to visualize how gross sales performed on discounts
 
-- Report has line charts to visualize sales and profts trend over time. 
+- Report has line charts to visualize sales and profits trend over time. 
 
-- And Lastly, Report has a heat map to show discount bands for all products with total sales visualized as color gradient.
+- And Lastly, Report has a heat map to show discount bands for all products with total sales visualized as colour gradient.
 
 
 ## Getting Started
