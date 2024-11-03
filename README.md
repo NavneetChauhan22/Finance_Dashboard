@@ -35,4 +35,4 @@ git clone https://github.com/NavneetChauhan22/Finance_Dashboard.git
 
 ## Link to the Dashboard
 [Tableau Dashboard Link
-](https://public.tableau.com/app/profile/navneet.chauhan2330/viz/FinancialPerformance_17290947268860/FinancialPerformanceDashboard)
+](https://public.tableau.com/views/FinancialPerformance_17290947268860/FinanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
